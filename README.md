@@ -1,5 +1,5 @@
 ![Screenshot 2024-07-14 214150](https://github.com/user-attachments/assets/cff50d68-b8aa-4547-95b5-9654ba56523e)
-#  Health Care Recommendation System
+#  AI-Driven Wellness Advisor 
  This is a health care recommendation system.The purpose of this project is to create a system that can recommend medicine,diets,workouts,decription based on the sysmptoms input by the user(and those input present on dataset).
  The Fronted of this system is build in by using python & flask. It process the user input & interacts with the ml models to predict the diseases and recommend medications.
 
